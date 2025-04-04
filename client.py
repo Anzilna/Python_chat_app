@@ -10,7 +10,7 @@ class ModernUI(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title("Modern Chat App")
+        self.title("Chat App")
         self.geometry("900x600")
         self.minsize(800, 500)
 
